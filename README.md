@@ -26,13 +26,17 @@ The dataset includes information about respondents and their vaccination status 
 
 ### Model Training
 
+-Split the training data.
 - Trained a Random Forest classifier to predict the probability of receiving the xyz flu vaccine and the seasonal flu vaccine.
-- Used cross-validation to tune hyperparameters and evaluate model performance.
+
 
 ### Evaluation
 
 - Calculated the area under the receiver operating characteristic curve (ROC AUC) for each of the two target variables.
 - The mean of these two scores is used as the overall evaluation metric.
+
+## Result
+- Predict probabilities and created the submission file.
 
 ## Usage
 
@@ -44,6 +48,7 @@ To run the code in the Jupyter notebook, follow these steps:
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/savi1708/SaviJuneja_Datahack.git
-   cd SaviJuneja_Datahack
+   git clone https://github.com/savi1708/Vaccine_Prediction.git
+   cd Vaccine_Prediction
+
 
