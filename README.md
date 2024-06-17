@@ -38,7 +38,12 @@ The dataset includes information about respondents and their vaccination status 
 
 To run the code in the Jupyter notebook, follow these steps:
 
+## Usage
+
+To run the code in the Jupyter notebook, follow these steps:
+
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/flu_vaccine_prediction.git
-   cd flu_vaccine_prediction
+   git clone https://github.com/savi1708/SaviJuneja_Datahack.git
+   cd SaviJuneja_Datahack
+
